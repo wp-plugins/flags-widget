@@ -1,0 +1,1069 @@
+# German translations for PACKAGE package.
+# Copyright (C) 2011 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Andreas Breitschopp <a-breitschopp@ab-tools.com>
+# http://www.ab-weblog.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Flags Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-30 16:44+0100\n"
+"PO-Revision-Date: 2011-10-30 16:44+0100\n"
+"Last-Translator: Andreas Breitschopp <a-breitschopp@ab-tools.com>\n"
+"Language-Team: Andreas Breitschopp <a-breitschopp@ab-tools.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: FWAdmin.php:6
+msgid "Flags Widget Options"
+msgstr "Optionen des Flaggen-Widgets"
+
+#: FWAdmin.php:36
+msgid "Options saved."
+msgstr "Optionen gespeichert."
+
+#: FWAdmin.php:44
+#, php-format
+msgid "If you like this plug-in, please <a href=\"%s\">consider a donation</a> to keep it free. Thank you!"
+msgstr "Wenn Ihnen dieses Plug-In gefällt, <a href=\"%s\">erwägen Sie bitte eine Spende</a>, damit es kostenlos bleibt. Vielen Dank!"
+
+#: FWAdmin.php:69
+msgid "Change Displayed Country Flags"
+msgstr "Angezeigte Länderflaggen ändern"
+
+#: FWAdmin.php:70
+msgid "Current country flag list:"
+msgstr "Aktuelle Länderflaggenliste:"
+
+#: FWAdmin.php:84
+#: FWAdmin.php:117
+msgid "Flag"
+msgstr "Flagge"
+
+#: FWAdmin.php:87
+msgid "Delete selected country flag(s)"
+msgstr "Ausgewählte Länderflagge(n) löschen"
+
+#: FWAdmin.php:101
+msgid "Add a new country flag to the list above:"
+msgstr "Neue Länderflagge zu obiger Liste hinzufügen:"
+
+#: FWAdmin.php:120
+msgid "Add country flag"
+msgstr "Länderflagge hinzufügen"
+
+#: FWAdmin.php:139
+msgid "Other Settings"
+msgstr "Weitere Einstellungen"
+
+#: FWAdmin.php:143
+msgid "Additional CSS styles applied to whole flags box:"
+msgstr "Zusätzliche CSS-Styles, die auf die gesamte Flaggen-Box angewendet werden:"
+
+#: FWAdmin.php:144
+msgid "(e. g. \"margin-bottom:20px\")"
+msgstr "(z. B. \"margin-bottom:20px\")"
+
+#: FWAdmin.php:147
+msgid "Additional CSS styles applied to every flag:"
+msgstr "Zusätzliche CSS-Styles, die auf jede einzelne Flagge angewendet werden:"
+
+#: FWAdmin.php:148
+msgid "(e. g. \"margin-right:10px\")"
+msgstr "(z. B. \"margin-right:10px\")"
+
+#: FWAdmin.php:151
+msgid "Support this free plug-in with a small powered by link at your page footer. Thank you!"
+msgstr "Unterstützen Sie dieses kostenlose Plug-in mit einem kleinen Powered-By-Link in der Seitenfußzeile. Danke!"
+
+#: FWAdmin.php:155
+msgid "Save options"
+msgstr "Optionen speichern"
+
+#: FWAdmin.php:190
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: FWCommon.php:3
+msgid "Andorra"
+msgstr "Andorra"
+
+#: FWCommon.php:4
+msgid "United Arab Emirates"
+msgstr "Vereinigte Arabische Emirate"
+
+#: FWCommon.php:5
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: FWCommon.php:6
+msgid "Antigua And Barbuda"
+msgstr "Antigua und Barbuda"
+
+#: FWCommon.php:7
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: FWCommon.php:8
+msgid "Albania"
+msgstr "Albanien"
+
+#: FWCommon.php:9
+msgid "Armenia"
+msgstr "Armenien"
+
+#: FWCommon.php:10
+msgid "Netherlands Antilles"
+msgstr "Niederländische Antillen"
+
+#: FWCommon.php:11
+msgid "Angola"
+msgstr "Angola"
+
+#: FWCommon.php:12
+msgid "Argentina"
+msgstr "Argentinien"
+
+#: FWCommon.php:13
+msgid "American Samoa"
+msgstr "Amerikanisch-Samoa"
+
+#: FWCommon.php:14
+msgid "Austria"
+msgstr "Österreich"
+
+#: FWCommon.php:15
+msgid "Australia"
+msgstr "Australien"
+
+#: FWCommon.php:16
+msgid "Aruba"
+msgstr "Aruba"
+
+#: FWCommon.php:17
+msgid "Azerbaijan"
+msgstr "Aserbaidschan"
+
+#: FWCommon.php:18
+msgid "Bosnia And Herzegovina"
+msgstr "Bosnien und Herzegowina"
+
+#: FWCommon.php:19
+msgid "Barbados"
+msgstr "Barbados"
+
+#: FWCommon.php:20
+msgid "Bangladesh"
+msgstr "Bangladesch"
+
+#: FWCommon.php:21
+msgid "Belgium"
+msgstr "Belgien"
+
+#: FWCommon.php:22
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: FWCommon.php:23
+msgid "Bulgaria"
+msgstr "Bulgarien"
+
+#: FWCommon.php:24
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: FWCommon.php:25
+msgid "Burundi"
+msgstr "Burundi"
+
+#: FWCommon.php:26
+msgid "Benin"
+msgstr "Benin"
+
+#: FWCommon.php:27
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: FWCommon.php:28
+msgid "Brunei Darussalam"
+msgstr "Brunei"
+
+#: FWCommon.php:29
+msgid "Bolivia"
+msgstr "Bolivien"
+
+#: FWCommon.php:30
+msgid "Brazil"
+msgstr "Brasilien"
+
+#: FWCommon.php:31
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: FWCommon.php:32
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: FWCommon.php:33
+msgid "Botswana"
+msgstr "Botswana"
+
+#: FWCommon.php:34
+msgid "Belarus"
+msgstr "Weißrussland"
+
+#: FWCommon.php:35
+msgid "Belize"
+msgstr "Belize"
+
+#: FWCommon.php:36
+msgid "Canada"
+msgstr "Kanada"
+
+#: FWCommon.php:37
+msgid "Cocos (keeling) Islands"
+msgstr "Kokosinseln"
+
+#: FWCommon.php:38
+msgid "Congo, The Democratic Republic Of The"
+msgstr "Kongo, Demokratische Republik"
+
+#: FWCommon.php:39
+msgid "Central African Republic"
+msgstr "Zentralafrikanische Republik"
+
+#: FWCommon.php:40
+msgid "Congo"
+msgstr "Kongo, Republik"
+
+#: FWCommon.php:41
+msgid "Switzerland"
+msgstr "Schweiz"
+
+#: FWCommon.php:42
+msgid "CÔte D'ivoire"
+msgstr "Cote d'Ivoire"
+
+#: FWCommon.php:43
+msgid "Cook Islands"
+msgstr "Cookinseln"
+
+#: FWCommon.php:44
+msgid "Chile"
+msgstr "Chile"
+
+#: FWCommon.php:45
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: FWCommon.php:46
+msgid "China"
+msgstr "China, Volksrepublik"
+
+#: FWCommon.php:47
+msgid "Colombia"
+msgstr "Kolumbien"
+
+#: FWCommon.php:48
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: FWCommon.php:49
+msgid "Serbia and Montenegro"
+msgstr "Serbien und Montenegro"
+
+#: FWCommon.php:50
+msgid "Cuba"
+msgstr "Kuba"
+
+#: FWCommon.php:51
+msgid "Cape Verde"
+msgstr "Kap Verde, Republik"
+
+#: FWCommon.php:52
+msgid "Christmas Island"
+msgstr "Weihnachtsinsel"
+
+#: FWCommon.php:53
+msgid "Cyprus"
+msgstr "Zypern, Republik"
+
+#: FWCommon.php:54
+msgid "Czech Republic"
+msgstr "Tschechische Republik"
+
+#: FWCommon.php:55
+msgid "Germany"
+msgstr "Deutschland"
+
+#: FWCommon.php:56
+msgid "Djibouti"
+msgstr "Dschibuti"
+
+#: FWCommon.php:57
+msgid "Denmark"
+msgstr "Dänemark"
+
+#: FWCommon.php:58
+msgid "Dominica"
+msgstr "Dominica"
+
+#: FWCommon.php:59
+msgid "Dominican Republic"
+msgstr "Dominikanische Republik"
+
+#: FWCommon.php:60
+msgid "Algeria"
+msgstr "Algerien"
+
+#: FWCommon.php:61
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: FWCommon.php:62
+msgid "Estonia"
+msgstr "Estland"
+
+#: FWCommon.php:63
+msgid "Egypt"
+msgstr "Ägypten"
+
+#: FWCommon.php:64
+msgid "Western Sahara"
+msgstr "Westsahara"
+
+#: FWCommon.php:65
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: FWCommon.php:66
+msgid "Spain"
+msgstr "Spanien"
+
+#: FWCommon.php:67
+msgid "Ethiopia"
+msgstr "Äthiopien"
+
+#: FWCommon.php:68
+msgid "European Union"
+msgstr "Europäische Union"
+
+#: FWCommon.php:69
+msgid "Finland"
+msgstr "Finnland"
+
+#: FWCommon.php:70
+msgid "Fiji"
+msgstr "Fidschi"
+
+#: FWCommon.php:71
+msgid "Falkland Islands (malvinas)"
+msgstr "Falklandinseln"
+
+#: FWCommon.php:72
+msgid "Micronesia, Federated States Of"
+msgstr "Mikronesien, Föderierte Staaten von"
+
+#: FWCommon.php:73
+msgid "Faroe Islands"
+msgstr "Färöer"
+
+#: FWCommon.php:74
+msgid "France"
+msgstr "Frankreich"
+
+#: FWCommon.php:75
+msgid "Gabon"
+msgstr "Gabun"
+
+#: FWCommon.php:76
+msgid "United Kingdom"
+msgstr "Vereinigtes Königreich von Großbritannien und Nordirland"
+
+#: FWCommon.php:77
+msgid "Grenada"
+msgstr "Grenada"
+
+#: FWCommon.php:78
+msgid "Georgia"
+msgstr "Georgien"
+
+#: FWCommon.php:79
+msgid "Guernsey"
+msgstr "Guernsey, Vogtei"
+
+#: FWCommon.php:80
+msgid "Ghana"
+msgstr "Ghana, Republik"
+
+#: FWCommon.php:81
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: FWCommon.php:82
+msgid "Greenland"
+msgstr "Grönland"
+
+#: FWCommon.php:83
+msgid "Gambia"
+msgstr "Gambia"
+
+#: FWCommon.php:84
+msgid "Guinea"
+msgstr "Guinea, Republik"
+
+#: FWCommon.php:85
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: FWCommon.php:86
+msgid "Equatorial Guinea"
+msgstr "Äquatorialguinea, Republik"
+
+#: FWCommon.php:87
+msgid "Greece"
+msgstr "Griechenland"
+
+#: FWCommon.php:88
+msgid "South Georgia And The South Sandwich Islands"
+msgstr "Südgeorgien und die Südlichen Sandwichinseln"
+
+#: FWCommon.php:89
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: FWCommon.php:90
+msgid "Guam"
+msgstr "Guam"
+
+#: FWCommon.php:91
+msgid "Guinea-bissau"
+msgstr "Guinea-Bissau, Republik"
+
+#: FWCommon.php:92
+msgid "Guyana"
+msgstr "Guyana"
+
+#: FWCommon.php:93
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+#: FWCommon.php:94
+msgid "Honduras"
+msgstr "Honduras"
+
+#: FWCommon.php:95
+msgid "Croatia"
+msgstr "Kroatien"
+
+#: FWCommon.php:96
+msgid "Haiti"
+msgstr "Haiti"
+
+#: FWCommon.php:97
+msgid "Hungary"
+msgstr "Ungarn"
+
+#: FWCommon.php:98
+msgid "Indonesia"
+msgstr "Indonesien"
+
+#: FWCommon.php:99
+msgid "Ireland"
+msgstr "Irland, Republik"
+
+#: FWCommon.php:100
+msgid "Israel"
+msgstr "Israel"
+
+#: FWCommon.php:101
+msgid "Isle Of Man"
+msgstr "Insel Man"
+
+#: FWCommon.php:102
+msgid "India"
+msgstr "Indien"
+
+#: FWCommon.php:103
+msgid "British Indian Ocean Territory"
+msgstr "Britisches Territorium im Indischen Ozean"
+
+#: FWCommon.php:104
+msgid "Iraq"
+msgstr "Irak"
+
+#: FWCommon.php:105
+msgid "Iran, Islamic Republic Of"
+msgstr "Iran"
+
+#: FWCommon.php:106
+msgid "Iceland"
+msgstr "Island"
+
+#: FWCommon.php:107
+msgid "Italy"
+msgstr "Italien"
+
+#: FWCommon.php:108
+msgid "Jersey"
+msgstr "Jersey"
+
+#: FWCommon.php:109
+msgid "Jamaica"
+msgstr "Jamaika"
+
+#: FWCommon.php:110
+msgid "Jordan"
+msgstr "Jordanien"
+
+#: FWCommon.php:111
+msgid "Japan"
+msgstr "Japan"
+
+#: FWCommon.php:112
+msgid "Kenya"
+msgstr "Kenia"
+
+#: FWCommon.php:113
+msgid "Kyrgyzstan"
+msgstr "Kirgisistan"
+
+#: FWCommon.php:114
+msgid "Cambodia"
+msgstr "Kambodscha"
+
+#: FWCommon.php:115
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: FWCommon.php:116
+msgid "Comoros"
+msgstr "Komoren"
+
+#: FWCommon.php:117
+msgid "Saint Kitts And Nevis"
+msgstr "St. Kitts und Nevis"
+
+#: FWCommon.php:118
+msgid "Korea, Democratic People's Republic Of"
+msgstr "Korea, Demokratische Volkrepublik"
+
+#: FWCommon.php:119
+msgid "Korea, Republic Of"
+msgstr "Korea, Republik"
+
+#: FWCommon.php:120
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: FWCommon.php:121
+msgid "Cayman Islands"
+msgstr "Kaimaninseln"
+
+#: FWCommon.php:122
+msgid "Kazakhstan"
+msgstr "Kasachstan"
+
+#: FWCommon.php:123
+msgid "Lao People's Democratic Republic"
+msgstr "Laos"
+
+#: FWCommon.php:124
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: FWCommon.php:125
+msgid "Saint Lucia"
+msgstr "St. Lucia"
+
+#: FWCommon.php:126
+msgid "Liechtenstein"
+msgstr "Liechtenstein, Fürstentum"
+
+#: FWCommon.php:127
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: FWCommon.php:128
+msgid "Liberia"
+msgstr "Liberia, Republik"
+
+#: FWCommon.php:129
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: FWCommon.php:130
+msgid "Lithuania"
+msgstr "Litauen"
+
+#: FWCommon.php:131
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: FWCommon.php:132
+msgid "Latvia"
+msgstr "Lettland"
+
+#: FWCommon.php:133
+msgid "Libyan Arab Jamahiriya"
+msgstr "Libyen"
+
+#: FWCommon.php:134
+msgid "Morocco"
+msgstr "Marokko"
+
+#: FWCommon.php:135
+msgid "Monaco"
+msgstr "Monaco"
+
+#: FWCommon.php:136
+msgid "Moldova"
+msgstr "Moldawien"
+
+#: FWCommon.php:137
+msgid "Madagascar"
+msgstr "Madagaskar, Republik"
+
+#: FWCommon.php:138
+msgid "Marshall Islands"
+msgstr "Marshallinseln"
+
+#: FWCommon.php:139
+msgid "Macedonia, The Former Yugoslav Republic Of"
+msgstr "Mazedonien"
+
+#: FWCommon.php:140
+msgid "Mali"
+msgstr "Mali, Republik"
+
+#: FWCommon.php:141
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: FWCommon.php:142
+msgid "Mongolia"
+msgstr "Mongolei"
+
+#: FWCommon.php:143
+msgid "Macao"
+msgstr "Macao"
+
+#: FWCommon.php:144
+msgid "Northern Mariana Islands"
+msgstr "Nördliche Marianen"
+
+#: FWCommon.php:145
+msgid "Martinique"
+msgstr "Martinique"
+
+#: FWCommon.php:146
+msgid "Mauritania"
+msgstr "Mauretanien"
+
+#: FWCommon.php:147
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: FWCommon.php:148
+msgid "Malta"
+msgstr "Malta"
+
+#: FWCommon.php:149
+msgid "Mauritius"
+msgstr "Mauritius, Republik"
+
+#: FWCommon.php:150
+msgid "Maldives"
+msgstr "Malediven"
+
+#: FWCommon.php:151
+msgid "Malawi"
+msgstr "Malawi, Republik"
+
+#: FWCommon.php:152
+msgid "Mexico"
+msgstr "Mexiko"
+
+#: FWCommon.php:153
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: FWCommon.php:154
+msgid "Mozambique"
+msgstr "Mosambik"
+
+#: FWCommon.php:155
+msgid "Namibia"
+msgstr "Namibia, Republik"
+
+#: FWCommon.php:156
+msgid "New Caledonia"
+msgstr "Neukaledonien"
+
+#: FWCommon.php:157
+msgid "Niger"
+msgstr "Niger"
+
+#: FWCommon.php:158
+msgid "Norfolk Island"
+msgstr "Norfolkinsel"
+
+#: FWCommon.php:159
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: FWCommon.php:160
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: FWCommon.php:161
+msgid "Netherlands"
+msgstr "Niederlande"
+
+#: FWCommon.php:162
+msgid "Norway"
+msgstr "Norwegen"
+
+#: FWCommon.php:163
+msgid "Nepal"
+msgstr "Nepal"
+
+#: FWCommon.php:164
+msgid "Nauru"
+msgstr "Nauru"
+
+#: FWCommon.php:165
+msgid "Niue"
+msgstr "Niue"
+
+#: FWCommon.php:166
+msgid "New Zealand"
+msgstr "Neuseeland"
+
+#: FWCommon.php:167
+msgid "Oman"
+msgstr "Oman"
+
+#: FWCommon.php:168
+msgid "Panama"
+msgstr "Panama"
+
+#: FWCommon.php:169
+msgid "Peru"
+msgstr "Peru"
+
+#: FWCommon.php:170
+msgid "French Polynesia"
+msgstr "Französisch-Polynesien"
+
+#: FWCommon.php:171
+msgid "Papua New Guinea"
+msgstr "Papua-Neuguinea"
+
+#: FWCommon.php:172
+msgid "Philippines"
+msgstr "Philippinen"
+
+#: FWCommon.php:173
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: FWCommon.php:174
+msgid "Poland"
+msgstr "Polen"
+
+#: FWCommon.php:175
+msgid "Saint Pierre And Miquelon"
+msgstr "St. Pierre und Miquelon"
+
+#: FWCommon.php:176
+msgid "Pitcairn"
+msgstr "Pitcairninseln"
+
+#: FWCommon.php:177
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: FWCommon.php:178
+msgid "Palestinian Territory, Occupied"
+msgstr "Palästinensische Autonomiegebiete"
+
+#: FWCommon.php:179
+msgid "Portugal"
+msgstr "Portugal"
+
+#: FWCommon.php:180
+msgid "Palau"
+msgstr "Palau"
+
+#: FWCommon.php:181
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: FWCommon.php:182
+msgid "Qatar"
+msgstr "Katar"
+
+#: FWCommon.php:183
+msgid "Romania"
+msgstr "Rumänien"
+
+#: FWCommon.php:184
+msgid "Russian Federation"
+msgstr "Russische Föderation"
+
+#: FWCommon.php:185
+msgid "Rwanda"
+msgstr "Ruanda, Republik"
+
+#: FWCommon.php:186
+msgid "Saudi Arabia"
+msgstr "Saudi-Arabien, Königreich"
+
+#: FWCommon.php:187
+msgid "Solomon Islands"
+msgstr "Salomonen"
+
+#: FWCommon.php:188
+msgid "Seychelles"
+msgstr "Seychellen, Republik der"
+
+#: FWCommon.php:189
+msgid "Sudan"
+msgstr "Sudan"
+
+#: FWCommon.php:190
+msgid "Sweden"
+msgstr "Schweden"
+
+#: FWCommon.php:191
+msgid "Singapore"
+msgstr "Singapur"
+
+#: FWCommon.php:192
+msgid "Saint Helena"
+msgstr "Die Kronkolonie St. Helena und Nebengebiete"
+
+#: FWCommon.php:193
+msgid "Slovenia"
+msgstr "Slowenien"
+
+#: FWCommon.php:194
+msgid "Slovakia"
+msgstr "Slowakei"
+
+#: FWCommon.php:195
+msgid "Sierra Leone"
+msgstr "Sierra Leone, Republik"
+
+#: FWCommon.php:196
+msgid "San Marino"
+msgstr "San Marino"
+
+#: FWCommon.php:197
+msgid "Senegal"
+msgstr "Senegal"
+
+#: FWCommon.php:198
+msgid "Somalia"
+msgstr "Somalia, Demokratische Republik"
+
+#: FWCommon.php:199
+msgid "Suriname"
+msgstr "Suriname"
+
+#: FWCommon.php:200
+msgid "Sao Tome And Principe"
+msgstr "São Tomé und Príncipe"
+
+#: FWCommon.php:201
+msgid "Union of Soviet Socialist Republics"
+msgstr "Union der Sozialistischen Sowjetrepubliken"
+
+#: FWCommon.php:202
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: FWCommon.php:203
+msgid "Syrian Arab Republic"
+msgstr "Syrien"
+
+#: FWCommon.php:204
+msgid "Swaziland"
+msgstr "Swasiland"
+
+#: FWCommon.php:205
+msgid "Turks And Caicos Islands"
+msgstr "Turks- und Caicosinseln"
+
+#: FWCommon.php:206
+msgid "Chad"
+msgstr "Tschad, Republik"
+
+#: FWCommon.php:207
+msgid "French Southern Territories"
+msgstr "Französische Süd- und Antarktisgebiete"
+
+#: FWCommon.php:208
+msgid "Togo"
+msgstr "Togo, Republik"
+
+#: FWCommon.php:209
+msgid "Thailand"
+msgstr "Thailand"
+
+#: FWCommon.php:210
+msgid "Tajikistan"
+msgstr "Tadschikistan"
+
+#: FWCommon.php:211
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: FWCommon.php:212
+msgid "Timor-leste"
+msgstr "Timor-Leste, Demokratische Republik"
+
+#: FWCommon.php:213
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: FWCommon.php:214
+msgid "Tunisia"
+msgstr "Tunesien"
+
+#: FWCommon.php:215
+msgid "Tonga"
+msgstr "Tonga"
+
+#: FWCommon.php:216
+msgid "Turkey"
+msgstr "Türkei"
+
+#: FWCommon.php:217
+msgid "Trinidad And Tobago"
+msgstr "Trinidad und Tobago"
+
+#: FWCommon.php:218
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: FWCommon.php:219
+msgid "Taiwan, Province Of China"
+msgstr "Taiwan"
+
+#: FWCommon.php:220
+msgid "Tanzania, United Republic Of"
+msgstr "Tansania, Vereinigte Republik"
+
+#: FWCommon.php:221
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: FWCommon.php:222
+msgid "Uganda"
+msgstr "Uganda, Republik"
+
+#: FWCommon.php:223
+msgid "United States"
+msgstr "Vereinigte Staaten von Amerika"
+
+#: FWCommon.php:224
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: FWCommon.php:225
+msgid "Uzbekistan"
+msgstr "Usbekistan"
+
+#: FWCommon.php:226
+msgid "Holy See (vatican City State)"
+msgstr "Vatikanstadt"
+
+#: FWCommon.php:227
+msgid "Saint Vincent And The Grenadines"
+msgstr "St. Vincent und die Grenadinen (GB)"
+
+#: FWCommon.php:228
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: FWCommon.php:229
+msgid "Virgin Islands, British"
+msgstr "Britische Jungferninseln"
+
+#: FWCommon.php:230
+msgid "Virgin Islands, U.s."
+msgstr "Amerikanische Jungferninseln"
+
+#: FWCommon.php:231
+msgid "Viet Nam"
+msgstr "Vietnam"
+
+#: FWCommon.php:232
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: FWCommon.php:233
+msgid "Wallis And Futuna"
+msgstr "Wallis und Futuna"
+
+#: FWCommon.php:234
+msgid "Samoa"
+msgstr "Samoa"
+
+#: FWCommon.php:235
+msgid "Yemen"
+msgstr "Jemen"
+
+#: FWCommon.php:236
+msgid "South Africa"
+msgstr "Südafrika, Republik"
+
+#: FWCommon.php:237
+msgid "Zambia"
+msgstr "Sambia, Republik"
+
+#: FWCommon.php:238
+msgid "Zimbabwe"
+msgstr "Simbabwe, Republik"
+
+#: FWWidget.php:62
+msgid "You have to add country flags in the plug-in settings before showing this widget!"
+msgstr "Sie müssen Länderflaggen in den Plug-In-Einstellungen hinzufügen, bevor Sie dieses Widget anzeigen!"
+
+#: FWWidget.php:91
+msgid "Flags position offset (left):"
+msgstr "Abstand Flaggenposition (links):"
+
+#: FWWidget.php:94
+msgid "Flags position offset (top):"
+msgstr "Abstand Flaggenposition (oben):"
+
+#: FWWidget.php:97
+msgid "Play with these values above to place the flags correctly depending on your theme."
+msgstr "Spielen Sie mit den obigen Werten, um die Flaggen abhängig von Ihrem Design korrekt zu plazieren."
+
+#: FWWidget.php:112
+msgid "Flag icon title/alt:"
+msgstr "Titel/Alt des Flaggen-Icons:"
+
+#: FWWidget.php:115
+msgid "Flag icon image URL:"
+msgstr "Bild-URL des Flaggen-Icons:"
+
+#: FWWidget.php:118
+msgid "Flag icon target URL:"
+msgstr "Ziel-URL des Flaggen-Icons:"
+
+#: FWWidget.php:133
+#, php-format
+msgid "You have to add country flags in the %splug-in settings%s before showing this widget!"
+msgstr "Sie müssen Länderflaggen in den %sPlug-In-Einstellungen%s hinzufügen, bevor Sie dieses Widget anzeigen!"
+
