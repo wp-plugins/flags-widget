@@ -1,7 +1,7 @@
 === Flags Widget ===
 
 Contributors: ab-tools
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donation%40breitschopp.de&item_name=Donation%20for%Flags%20Widget%20WordPress%20Plug-In&no_shipping=0&no_note=1&tax=0&currency_code=EUR&lc=CA&bn=PP%2dDonationsBF&charset=UTF%2d8
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donation%40breitschopp.de&item_name=Donation%20for%20Flags%20Widget%20WordPress%20Plug-In&no_shipping=0&no_note=1&tax=0&currency_code=EUR&lc=CA&bn=PP%2dDonationsBF&charset=UTF%2d8
 Tags: flag, flags, widget, language, languages, country, multilingual, multilanguage, bilingual, localization, localisation, translate, translation, switch, switcher, image, images, icon, icons
 Requires at least: 3.0
 Tested up to:  3.2.1
@@ -26,7 +26,7 @@ After installation of this plug-in a new widget will be added that you can use t
 = You can see this plug-in in action on posts of this blog: =
 * [Read Current News Online at AB-NewsOnline.com](http://www.ab-newsonline.com/en/ "Read Current News Online at AB-NewsOnline.com")
 
-If you like this plug-in, please [consider a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donation%40breitschopp.de&item_name=Donation%20for%Flags%20Widget%20WordPress%20Plug-In&no_shipping=0&no_note=1&tax=0&currency_code=EUR&lc=CA&bn=PP%2dDonationsBF&charset=UTF%2d8 "Donate With PayPal") to keep it free. Thank you!  
+If you like this plug-in, please [consider a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donation%40breitschopp.de&item_name=Donation%20for%20Flags%20Widget%20WordPress%20Plug-In&no_shipping=0&no_note=1&tax=0&currency_code=EUR&lc=CA&bn=PP%2dDonationsBF&charset=UTF%2d8 "Donate With PayPal") to keep it free. Thank you!  
 *... and please don't forget the 5 star rating, if you like this plug-in. :-)*
 
 == Installation ==
