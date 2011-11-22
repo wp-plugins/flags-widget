@@ -187,7 +187,7 @@ add_action ('admin_menu', 'fw_admin_actions');
 function fw_plugin_action_links($links, $file) 
 {
   if ($file == FW_PLUGIN_PATH) {
-    $settingslink = '<a href="options-general.php?page=flags-widget">' . __('Settings', FW_DEF_STRING) . '</a>';
+    $settingslink = '<a href="options-general.php?page=flags-widget-options">' . __('Settings', FW_DEF_STRING) . '</a>';
     array_unshift($links, $settingslink);
   }
 
