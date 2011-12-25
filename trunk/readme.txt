@@ -4,8 +4,8 @@ Contributors: ab-tools
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donation%40breitschopp.de&item_name=Donation%20for%20Flags%20Widget%20WordPress%20Plug-In&no_shipping=0&no_note=1&tax=0&currency_code=EUR&lc=CA&bn=PP%2dDonationsBF&charset=UTF%2d8
 Tags: flag, flags, widget, language, languages, country, multilingual, multilanguage, bilingual, localization, localisation, translate, translation, switch, switcher, image, images, icon, icons
 Requires at least: 3.0
-Tested up to:  3.2.1
-Stable tag: 1.0.1
+Tested up to:  3.3.0
+Stable tag: 1.0.2
 
 A simple plug-in that displays flag icons that link to other language versions of your blog.
 
@@ -44,6 +44,9 @@ If you like this plug-in, please [consider a donation](https://www.paypal.com/cg
 3. The configuration page of the plug-in.
 
 == Changelog ==
+
+= 1.0.2 =
+* Tested with WordPress 3.3.0.
 
 = 1.0.1 =
 * *Fix:* Fixing the link "Settings" on the plug-in page.
