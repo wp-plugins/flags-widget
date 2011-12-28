@@ -42,10 +42,10 @@ function fw_admin() {
   ?>
   <p>
     <?php echo sprintf(__('If you like this plug-in, please <a href="%s">consider a donation</a> to keep it free. Thank you!', FW_DEF_STRING),
-                        'https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=a-breitschopp%40ab-tools.com&item_name=Donation%20for%20Flags%20Widget%20Plug-In&no_shipping=0&no_note=1&tax=0&currency_code=EUR&lc=CA&bn=PP%2dDonationsBF&charset=UTF%2d8'); ?>
+                        'https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donation%40breitschopp.de&item_name=Donation%20for%20Flags%20Widget%20WordPress%20Plug-In&no_shipping=0&no_note=1&tax=0&currency_code=EUR&lc=CA&bn=PP%2dDonationsBF&charset=UTF%2d8'); ?>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
       <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="4UD8BXBDQ6YQE">
+      <input type="hidden" name="hosted_button_id" value="YB7HE28KEUNJU">
       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
       <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
     </form>
