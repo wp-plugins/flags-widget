@@ -4,7 +4,7 @@
 Plugin Name: Flags Widget
 Plugin URI: http://www.ab-weblog.com/en/wordpress-plug-ins/flags-widget/
 Description: A simple plug-in that displays flag icons that link to other language versions of your blog.
-Version: 1.0.3
+Version: 1.0.4
 Author: Andreas Breitschopp
 Author URI: http://www.ab-weblog.com
 */
